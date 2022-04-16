@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\Admin\Desktop\OOP lab 1.4\OOP 1.4\OOP 1.4\Matrix.cpp(90,6): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Admin\Desktop\OOP lab 1.4\OOP 1.4\OOP 1.4\Matrix.cpp(178,9): warning C4101: 'd': unreferenced local variable
+C:\Users\Admin\Desktop\OOP lab 1.4\OOP 1.4\OOP 1.4\Matrix.cpp(203,9): warning C4101: 'd': unreferenced local variable
+     Creating library C:\Users\Admin\Desktop\OOP lab 1.4\OOP 1.4\Debug\UnitTest1.lib and object C:\Users\Admin\Desktop\OOP lab 1.4\OOP 1.4\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Admin\Desktop\OOP lab 1.4\OOP 1.4\Debug\UnitTest1.dll

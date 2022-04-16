@@ -1,0 +1,7 @@
+﻿  Matrix.cpp
+C:\Users\Admin\Desktop\OOP lab 1.4\OOP 1.4\OOP 1.4\Matrix.cpp(90,6): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Admin\Desktop\OOP lab 1.4\OOP 1.4\OOP 1.4\Matrix.cpp(178,9): warning C4101: 'd': unreferenced local variable
+C:\Users\Admin\Desktop\OOP lab 1.4\OOP 1.4\OOP 1.4\Matrix.cpp(203,9): warning C4101: 'd': unreferenced local variable
+  Source.cpp
+  Generating Code...
+  OOP 1.4.vcxproj -> C:\Users\Admin\Desktop\OOP lab 1.4\OOP 1.4\Debug\OOP 1.4.exe
